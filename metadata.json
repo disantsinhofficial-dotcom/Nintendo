@@ -1,0 +1,6 @@
+{
+  "name": "Ultra Wii Emulator",
+  "description": "High-performance Nintendo Wii and GameCube emulator for Android with Vulkan & OpenGL ES backends, custom GPU driver manager, touchscreen controls, and HD upscaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
